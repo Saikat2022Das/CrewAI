@@ -1,0 +1,12 @@
+crewai[google-genai,tools]==1.7.2
+selenium>=4.39.0
+webdriver-manager>=4.0.2
+pydantic>=1.10.0
+python-dotenv>=1.0.0
+cd /home/saikat/Desktop/CrewAI/market_research_crew
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/Saikat2022Das/CrewAI.git
+git push -u origin main
